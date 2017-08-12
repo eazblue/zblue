@@ -5,3 +5,6 @@
 
 # text file
 *.txt
+
+# config file for ctags
+tags
